@@ -11,7 +11,7 @@
 
 ---
 **ระบบจะเปิดให้ใช้งานถึงวันที่ 12 ธันวาคม พ.ศ2568 เนื่องจากจะหมดช่วงการทดลองใช้งานฟรี ของGoogle firebase **
-- ลิ้งค์เว็บไซต์ : ```https://webschool-ecf8d.web.app/```
+- ลิงก์เว็บไซต์ : ```https://webschool-ecf8d.web.app/```
 - ระบบหลังบ้าน
 หน้าล็อคอืนเข้าสู่ระบบหลังบ้าน เพื่อที่จะเพิ่มข่าวสารหรือกิจกรรม : ```https://webschool-ecf8d.web.app/admin/login```
 - Username : AdminTuns
@@ -52,5 +52,6 @@ npm run dev
 ---
 
 Made with ❤️ by [Panupat.Dev]
+
 
 
